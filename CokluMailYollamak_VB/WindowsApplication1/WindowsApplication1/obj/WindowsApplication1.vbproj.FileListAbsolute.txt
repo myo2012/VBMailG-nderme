@@ -1,0 +1,13 @@
+C:\Users\faruk\Desktop\CokluMailYollamak_VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\faruk\Desktop\CokluMailYollamak_VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\faruk\Desktop\CokluMailYollamak_VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\faruk\FARUK_HOCA_ÖDEV\CokluMailYollamak_VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\faruk\FARUK_HOCA_ÖDEV\CokluMailYollamak_VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\faruk\FARUK_HOCA_ÖDEV\CokluMailYollamak_VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\faruk\FARUK_HOCA_ÖDEV\CokluMailYollamak_VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\faruk\FARUK_HOCA_ÖDEV\CokluMailYollamak_VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\faruk\FARUK_HOCA_ÖDEV\CokluMailYollamak_VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\faruk\FARUK_HOCA_ÖDEV\CokluMailYollamak_VB\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\faruk\FARUK_HOCA_ÖDEV\CokluMailYollamak_VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\faruk\FARUK_HOCA_ÖDEV\CokluMailYollamak_VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\faruk\FARUK_HOCA_ÖDEV\CokluMailYollamak_VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
